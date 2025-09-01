@@ -29,23 +29,6 @@ This capstone project develops predictive models to analyze NFL player injury pa
 - **Deep Learning**: LSTM networks for sequential movement pattern analysis
 - **Ensemble Methods**: XGBoost, AdaBoost, Extra Trees
 
-### Technology Stack
-```python
-# Core Libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-# Machine Learning
-from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
-from sklearn.svm import SVC
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.cluster import KMeans, DBSCAN
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.metrics import accuracy_score, classification_report
-```
-
 ### Data Processing Pipeline
 - Comprehensive data cleaning and preprocessing
 - Feature engineering and selection
